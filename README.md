@@ -14,4 +14,4 @@ Work done as of now:
 Citations/ Refrences: <br>
 1) SSL4EOS12: (the pretrained model) https://github.com/zhu-xlab/SSL4EO-S12
 2) SMP: (segmentation models) https://github.com/qubvel-org/segmentation_models.pytorch, https://segmentation-modelspytorch.readthedocs.io/en/latest/
-3) 
+3) Assessing CosineAnnealingLR: (Learning Rate scheduler) Beyond Cosine Decay https://arxiv.org/abs/2503.02844, SGDR https://arxiv.org/pdf/1608.03983, Cyclical Log Annealing https://arxiv.org/pdf/2403.14685
